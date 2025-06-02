@@ -1,2 +1,2 @@
-# Proyecto web de Seguridad Informatica
+# Proyecto de Seguridad Informatica
 

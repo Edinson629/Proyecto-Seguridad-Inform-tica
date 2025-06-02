@@ -452,7 +452,7 @@ export default function PasswordAnalyzer() {
             transition={{ duration: 0.5 }}
           >
             <Shield className="h-10 w-10 text-blue-600 dark:text-blue-400" />
-            <h1 className="text-4xl font-bold text-gray-900 dark:text-white">Analizador de Contraseñas</h1>
+            <h1 className="text-4xl font-bold text-gray-900 dark:text-white">SECUREPASS ANALYZER</h1>
             <div className="absolute right-4 top-4">
               <ThemeToggle />
             </div>

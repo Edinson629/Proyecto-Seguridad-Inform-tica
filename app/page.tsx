@@ -833,7 +833,7 @@ export default function PasswordAnalyzer() {
                 <CardFooter className="bg-blue-50/50 dark:bg-blue-950/30 border-t border-blue-100 dark:border-blue-900 flex justify-between items-center">
                   <p className="text-xs text-blue-600/70 dark:text-blue-400/70 flex items-center gap-1">
                     <Lock className="h-3 w-3" />
-                    Todas las verificaciones se realizan localmente
+                    Todas las verificaciones se realizan localmente en el navegador
                   </p>
                   {password && (
                     <Button

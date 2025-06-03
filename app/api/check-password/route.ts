@@ -19,7 +19,7 @@ export async function GET(request: NextRequest) {
     if (!response.ok) {
       throw new Error("Failed to fetch from HIBP API")
     }
-
+    //La API devuelve un archivo de texto plano con todos los hashes
     const data = await response.text()
 
     return new NextResponse(data, {
